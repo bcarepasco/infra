@@ -1,0 +1,1 @@
+# B-Care Platform Infrastructure
